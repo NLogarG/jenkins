@@ -3,6 +3,7 @@ public class Saludar
 {
     public static void main(String args[])
      {
-        System.out.println("Este es mi primer jemplo en Java");
+        String name = Ignacio
+        System.out.println("Nombre: " + name);
     }
 }
